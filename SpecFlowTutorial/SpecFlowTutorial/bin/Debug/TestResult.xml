@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\myob\Documents\Visual Studio 2010\Projects\SpecFlowTutorial\SpecFlowTutorial\bin\Debug\SpecFlowTutorial.dll" total="9" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-09-06" time="00:01:19">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0" machine-name="GALLIFREY" user="myob" user-domain="Gallifrey" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\myob\Documents\Visual Studio 2010\Projects\SpecFlowTutorial\SpecFlowTutorial\bin\Debug\SpecFlowTutorial.dll" executed="True" result="Success" success="True" time="0.796" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SpecFlowTutorial" executed="True" result="Success" success="True" time="0.780" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="FactorialsFeature" description="Factorials" executed="True" result="Success" success="True" time="0.749" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="CalculatingAFactorial" description="Calculating a factorial" executed="True" result="Success" success="True" time="0.265" asserts="0">
+                <results>
+                  <test-case name="SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial(&quot;5&quot;,&quot;120&quot;,System.String[])" executed="True" result="Success" success="True" time="0.203" asserts="2" />
+                  <test-case name="SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial(&quot;7&quot;,&quot;5040&quot;,System.String[])" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+                  <test-case name="SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial(&quot;2&quot;,&quot;2&quot;,System.String[])" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial(&quot;3&quot;,&quot;6&quot;,System.String[])" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial(&quot;4&quot;,&quot;24&quot;,System.String[])" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial(&quot;1&quot;,&quot;1&quot;,System.String[])" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial(&quot;6&quot;,&quot;720&quot;,System.String[])" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="PalindromesFeature" description="Palindromes" executed="True" result="Success" success="True" time="0.031" asserts="0">
+            <results>
+              <test-case name="SpecFlowTutorial.PalindromesFeature.InvalidPalindrome" description="Invalid palindrome" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="SpecFlowTutorial.PalindromesFeature.ValidPalindrome" description="Valid palindrome" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1012]C:\Users\myob\Documents\Visual Studio 2010\Projects\SpecFlowTutorial\SpecFlowTutorial\bin\Debug\SpecFlowTutorial.dll</TopNode>
+  <SelectedNode>[0-1012]C:\Users\myob\Documents\Visual Studio 2010\Projects\SpecFlowTutorial\SpecFlowTutorial\bin\Debug\SpecFlowTutorial.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1012]C:\Users\myob\Documents\Visual Studio 2010\Projects\SpecFlowTutorial\SpecFlowTutorial\bin\Debug\SpecFlowTutorial.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]SpecFlowTutorial" Expanded="true" />
+    <Node UniqueName="[0-1000]SpecFlowTutorial.FactorialsFeature" Expanded="true" />
+    <Node UniqueName="[0-1001]SpecFlowTutorial.FactorialsFeature.CalculatingAFactorial" Expanded="true" />
+    <Node UniqueName="[0-1009]SpecFlowTutorial.PalindromesFeature" Expanded="true" />
+  </Nodes>
+</VisualState>
